@@ -2,26 +2,41 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "SurvivalWorld",
-        "smallImageKey": "srvwrld"
+        "smallImageText": "WesterosCraft",
+        "smallImageKey": "seal-circle"
     },
-    "rss": "https://westeroscraft.com/articles/index.rss",
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "Example_Server",
+            "id": "SurvivalWorld-1.16.4",
             "name": "SurvivalWorld",
-            "description": "Survie 1.16.5, Skyblock, Creatif",
-            "icon": "http://www.survivalworld.fr/img/uploads/theme_logo.png",
-            "version": "0.0.1",
-            "address": "play.survivalworld.fr:25565",
-            "minecraftVersion": "1.16.5",
+            "description": "Survie - SkyBlock - Creatif - 1.16.5",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "version": "3.9.4",
+            "address": "play.survivalworld.fr",
+            "minecraftVersion": "1.16.4",
             "discord": {
-                "shortId": "Example",
-                "largeImageText": "WesterosCraft Example Server",
-                "largeImageKey": "srvwrld"
+                "shortId": "Production",
+                "largeImageText": "WesterosCraft Production Server",
+                "largeImageKey": "server-prod"
             },
             "mainServer": true,
-            "autoconnect": true
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.16.4-35.1.4",
+                    "name": "Minecraft Forge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 4450992,
+                        "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
+                        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.4-35.1.4/forge-1.16.4-35.1.4-universal.jar"
+                    }
+                }
+            ]
         }
     ]
 }
