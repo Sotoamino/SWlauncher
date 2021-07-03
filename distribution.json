@@ -17,7 +17,7 @@
             "icon": "http://www.survivalworld.fr/img/uploads/theme_logo.png",
             "version": "3.9.4",
             "address": "play.survivalworld.fr:25565",
-            "minecraftVersion": "1.16.5",
+            "minecraftVersion": "1.16.4",
             "discord": {
                 "shortId": "Production",
                 "largeImageText": "play.survivalworld.fr",
