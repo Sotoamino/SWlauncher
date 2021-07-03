@@ -24,7 +24,7 @@
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
-            "autoconnect": true,
+            "autoconnect": true
         }
     ]
 }
