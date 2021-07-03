@@ -25,16 +25,6 @@
             },
             "mainServer": true,
             "autoconnect": true,
-            "modules": [
-                {
-                    "id": "net.minecraftforge:forge:1.16.4-35.1.4",
-                    "name": "Minecraft Forge",
-                    "type": "ForgeHosted",
-                    "artifact": {
-                        "size": 4450992,
-                        "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
-                        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.4-35.1.4/forge-1.16.4-35.1.4-universal.jar"
-                    }
-                }
+        }
     ]
 }
