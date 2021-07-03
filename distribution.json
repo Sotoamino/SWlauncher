@@ -24,9 +24,7 @@
                 "largeImageKey": "srvwrld"
             },
             "mainServer": true,
-            "autoconnect": true,
-            "modules": [
-            ]
+            "autoconnect": true
         }
     ]
 }
