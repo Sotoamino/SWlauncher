@@ -1,9 +1,9 @@
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
-        "smallImageKey": "seal-circle"
+        "clientId": "362639608577785888",
+        "smallImageText": "SurvivalWorld",
+        "smallImageKey": "srvwrld"
     },
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
@@ -20,8 +20,8 @@
             "minecraftVersion": "1.16.5",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
-                "largeImageKey": "server-prod"
+                "largeImageText": "play.survivalworld.fr",
+                "largeImageKey": "srvwrld"
             },
             "mainServer": true,
             "autoconnect": true,
