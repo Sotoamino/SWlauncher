@@ -169,7 +169,7 @@ function setDismissHandler(handler){
     }
 }
 
-/* Server Select View */
+/* Server Select View */  
 
 document.getElementById('serverSelectConfirm').addEventListener('click', () => {
     const listings = document.getElementsByClassName('serverListing')

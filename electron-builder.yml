@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'survivalworldLauncher'
+productName: 'SurvivalWorld-Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2021 Daniel Scalzi'
+copyright: 'Copyright © 2018-2021 Daniel Scalzi © 2017-2021 Sotoamino © 2017-2021 SurvivalWorld'
 
 asar: true
 compression: 'maximum'
@@ -39,10 +39,10 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Daniel Scalzi'
-  vendor: 'Daniel Scalzi'
-  synopsis: 'Modded Minecraft Launcher'
-  description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
+  maintainer: 'Sotoamino & Daniel Scalzi'
+  vendor: 'SurvivalWorld'
+  synopsis: 'Launcher Minecraft pour SurvivalWorld'
+  description: 'Launcher vous permettant de rejoindre des serveurs et de jouer en solo. Proposé par SurvivalWorld & Sotoamino'
   category: 'Game'
 
 
