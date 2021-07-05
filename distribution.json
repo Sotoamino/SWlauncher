@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "rss": "<LINK TO RSS FEED>",
+  "version": "2.1.0",
+  "rss": "https://www.survivalworld.fr/blog",
   "discord": {
     "clientId": "362639608577785888",
     "smallImageText": "SurvivalWorld",
